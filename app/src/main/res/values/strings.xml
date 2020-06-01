@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cool Catz</string>
+    <string name="name">Name</string>
+    <string name="pet_name">name of pet</string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="black_cat">black cat</string>
+    <string name="bio">Hello there,I am a four year old cat.
+        \n\nI live in the basement of an apartment in the city.My two kittens keep me company here.
+        \nI enjoy devouring the subway rats and keep the station free from rats!
+        \nMoreover,I like basking in the sun and enjoying the heat during sunset.
+    </string>
+    <string name="say_hello">SAY HELLO</string>
+</resources>
